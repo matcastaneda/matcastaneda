@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile!
 
-🧑🏻‍💻 I'm Matías Castañeda (*@matcastaneda*), a Computer Science student🧑🏻‍💻 and I'm a passionate and self-taught developer focused on :rocket:**Front-end development**. I'm always looking for new challenges to learn and grow.
+🧑🏻‍💻 I'm Matías Castañeda (*@matcastaneda*), a Computer Science 🧑🏻‍💻 and I'm a passionate and self-taught developer focused on :rocket:**Front-end development**. I'm always looking for new challenges to learn and grow.
 
 ---
 
