@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,nest,mongo"/>
+    <img src="https://skillicons.dev/icons?i=next,astro,nest,mongo"/>
   </a>
 </p>
 
