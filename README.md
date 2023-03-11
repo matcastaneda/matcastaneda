@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,react,express,mysql,firebase,tailwind,vscode,vite,figma,xd,git"/>
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,react,express,mongo,mysql,firebase,tailwind,vscode,vite,figma,xd,git"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,astro,nest,mongo"/>
+    <img src="https://skillicons.dev/icons?i=next,astro,nest"/>
   </a>
 </p>
 
